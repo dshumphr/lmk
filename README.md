@@ -1,8 +1,10 @@
+```
  _           _    
  | |_ __ ___ | | __
  | | '_ ` _ \| |/ /
  | | | | | | |   < 
  |_|_| |_| |_|_|\_\
+```
 
 ## What is LMK?
 LMK (Let Me Know) is a simple bash tool designed to send notifications to your Telegram account upon the completion of a command in your terminal. It offers flexibility with customizable messages, timing options, and can handle various scenarios based on the success or failure of commands.
